@@ -22,7 +22,7 @@ Menu = Tk()
 Menu.title("Team No:21 OS PROJECT")
 Menu.overrideredirect(False)
 # Menu.iconbitmap("icon.ico")
-Menu.geometry("811x700+0+0")
+Menu.geometry("800x700+0+0")
 Menu.resizable(False, False)
 
 L1=Label(width="900", height="2", text="OS Lab Project", font=("Century Gothic", 30), bg="black", fg="white")
